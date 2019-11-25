@@ -1,0 +1,21 @@
+// ---------------------------------  
+// Rafael Corsi @ insper . edu . br
+//              2018a
+// ---------------------------------
+//
+// Descritivo   :
+//  calcula o último termo de uma série de
+//  Fibonacci
+//
+//  O resultado é salvo em TEMP[0]
+//
+// ---------------------------------
+
+function Main.main 0
+
+  push temp 1       // temp 1 é inicializado com diferentes valores nos testes
+  call fibonacci 1
+  pop temp 0
+
+label while
+    goto while

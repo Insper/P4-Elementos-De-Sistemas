@@ -1,0 +1,5 @@
+//***********************************************************//
+// função recebe um argumento e deve retornar o fibonacci referente ao valor recebido **//
+//***********************************************************//
+function fibonacci 2
+

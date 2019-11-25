@@ -1,0 +1,32 @@
+// ---------------------------------  
+// Rafael Corsi @ insper . edu . br
+//              2018a
+// ---------------------------------
+//
+// Projeto      : Projeto I-VM
+// File         : 2a-Calculadora
+//
+// Descritivo   : 
+//  Escreva um código em VM que realize a seguinte
+//  operação :
+// 
+// Transcreva a equação a seguir para ser executada em linguagem VM
+// (precisa executar em VM).
+// 	WHILE(TRUE):
+// 	IF (TEMP[0] * TEMP[1]) > 6:
+// 		TEMP[2] = 8
+// 	ELSE:
+// 		RAM[2] = - TEMP[0]
+//
+//  O resultado deve ser salvo em temp 3
+//
+//  ****************************************************
+//  ** A ideia é deixar o Z01 resolver, você não deve **
+//  ** simplificar a equação                          **
+//  ****************************************************
+// ---------------------------------
+
+function Main.main 0
+ 
+label WHILE
+  goto WHILE

@@ -1,0 +1,9 @@
+//----------------------------------------------------//
+// SIMULADO                                           //
+// Testa a implementação do novo comando vm de copy   //
+//----------------------------------------------------//
+
+push constant 1
+push constant 2
+push constant 3
+add3
